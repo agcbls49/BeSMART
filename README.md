@@ -1,7 +1,24 @@
-# BeSMART Notes App
+# BeSMART
 BeSMART is a user-friendly notes application that allows users to take notes efficiently, manage their schedule and tasks, as well as review their educational materials.  
 
 This application is our Final Project in ITEC 103 (Intermediate Programming). Project made by Amazing Grace Cabiles and Cyrelle Kristin Gapit from BSCS-1B.  
+<br>
+
+**Amazing Grace Cabiles:**
+* Pomodoro Timer
+* Notes
+* To Do list
+* MP3 and Video Player
+* Converters
+
+<br>
+
+**Cyrelle Kristin Gapit:**
+* Rich Text Editor 
+* Rich Text Formatting Save Option
+* Calendar
+* UI Redesign
+* Formulas (using images)
 
 # Application Screenshots
 ![main](https://github.com/aaazezeze1/BeSMART/assets/81816019/4da2e880-abbe-449b-a46a-90370f6923e6)
